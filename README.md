@@ -69,12 +69,6 @@ Focus Areas      →  Equity, Fixed Income, Derivatives, Risk,
 - 📄 **Research Paper:** Stock Market Prediction Using Machine Learning
 
 
-## Open To
-
-- **FinTech / Quant Analyst** — where finance + ML both matter
-- **AI in BFSI** — explainable models for banking, investment, insurance
-- **Product / Full-Stack roles** — AI-powered consumer or enterprise products
-- **Wealth Tech** — robo-advisory, portfolio analytics, digital investment platforms
 
 ---
 
