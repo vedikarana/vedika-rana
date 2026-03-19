@@ -65,8 +65,8 @@ Focus Areas      →  Equity, Fixed Income, Derivatives, Risk,
 
 ## Publications & Patents
 
-- 📋 **Patent (filing):** Explainable AI for Compliance and Personalized Investment
-- 📄 **Research Paper:** Stock Market Prediction Using Machine Learning
+- 📋 **Patent (filing):** Regulatory Explainability Score (RES) for SEBI-Compliant AI Stock Prediction
+- 📄 **Research Paper:** XAI Framework for SEBI-Compliant Stock Advisory
 
 
 
